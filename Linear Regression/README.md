@@ -1,1 +1,1 @@
-
+While learning Linear Regression, I first implemented the closed-form solution using the Normal Equation (Pseudo-Inverse / PINV approach). I then implemented Gradient Descent from scratch to understand iterative optimization techniques, and finally used scikit-learn for practical model training and comparison.
